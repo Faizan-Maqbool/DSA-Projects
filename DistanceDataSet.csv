@@ -1,0 +1,32 @@
+Airport 1, Airport 2,Duration
+"Incheon International Airport (ICN) - Seoul, South Korea","Kansai International Airport (KIX) - Osaka, Japan",17
+"Incheon International Airport (ICN) - Seoul, South Korea","Queenstown Airport (ZQN) - Queenstown, New Zealand",45
+"Incheon International Airport (ICN) - Seoul, South Korea","Denver International Airport (DEN) - Denver, Colorado, United States",9
+"Kansai International Airport (KIX) - Osaka, Japan","Munich Airport (MUC) - Munich, Germany",28
+"Kansai International Airport (KIX) - Osaka, Japan","Queenstown Airport (ZQN) - Queenstown, New Zealand",3
+"Kansai International Airport (KIX) - Osaka, Japan","Denver International Airport (DEN) - Denver, Colorado, United States",56
+"Munich Airport (MUC) - Munich, Germany","Queenstown Airport (ZQN) - Queenstown, New Zealand",11
+"Munich Airport (MUC) - Munich, Germany","Denver International Airport (DEN) - Denver, Colorado, United States",21
+"Queenstown Airport (ZQN) - Queenstown, New Zealand","Denver International Airport (DEN) - Denver, Colorado, United States",8
+"Denver International Airport (DEN) - Denver, Colorado, United States","Queenstown Airport (ZQN) - Queenstown, New Zealand",41
+Singapore Changi Airport (SIN) - Singapore,"Queenstown Airport (ZQN) - Queenstown, New Zealand",13
+Singapore Changi Airport (SIN) - Singapore,"Munich Airport (MUC) - Munich, Germany",19
+Singapore Changi Airport (SIN) - Singapore,"Denver International Airport (DEN) - Denver, Colorado, United States",5
+"Marrakesh Menara Airport (RAK) - Marrakesh, Morocco","Kansai International Airport (KIX) - Osaka, Japan",23
+"Marrakesh Menara Airport (RAK) - Marrakesh, Morocco","Munich Airport (MUC) - Munich, Germany",14
+"Marrakesh Menara Airport (RAK) - Marrakesh, Morocco","Queenstown Airport (ZQN) - Queenstown, New Zealand",30
+"Marrakesh Menara Airport (RAK) - Marrakesh, Morocco","Denver International Airport (DEN) - Denver, Colorado, United States",37
+Singapore Changi Airport (SIN) - Singapore,"Marrakesh Menara Airport (RAK) - Marrakesh, Morocco",18
+"Incheon International Airport (ICN) - Seoul, South Korea",Singapore Changi Airport (SIN) - Singapore,25
+"Incheon International Airport (ICN) - Seoul, South Korea","Marrakesh Menara Airport (RAK) - Marrakesh, Morocco",7
+"Kansai International Airport (KIX) - Osaka, Japan","Incheon International Airport (ICN) - Seoul, South Korea",51
+Singapore Changi Airport (SIN) - Singapore,"Incheon International Airport (ICN) - Seoul, South Korea",15
+"Queenstown Airport (ZQN) - Queenstown, New Zealand",Singapore Changi Airport (SIN) - Singapore,4
+"Queenstown Airport (ZQN) - Queenstown, New Zealand","Incheon International Airport (ICN) - Seoul, South Korea",27
+"Denver International Airport (DEN) - Denver, Colorado, United States",Singapore Changi Airport (SIN) - Singapore,10
+"Denver International Airport (DEN) - Denver, Colorado, United States","Munich Airport (MUC) - Munich, Germany",33
+"Denver International Airport (DEN) - Denver, Colorado, United States","Incheon International Airport (ICN) - Seoul, South Korea",22
+"Munich Airport (MUC) - Munich, Germany",Singapore Changi Airport (SIN) - Singapore,1
+"Munich Airport (MUC) - Munich, Germany","Kansai International Airport (KIX) - Osaka, Japan",6
+"Munich Airport (MUC) - Munich, Germany","Incheon International Airport (ICN) - Seoul, South Korea",36
+"Incheon International Airport (ICN) - Seoul, South Korea","Munich Airport (MUC) - Munich, Germany",49
